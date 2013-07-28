@@ -29,12 +29,13 @@ body {
 }
 #containermain {
     background: #000;
-    display: block;
+    
 }
 
 img.bg {
   /* Set rules to fill background */
   margin:auto;
+  display: block;
 }
 
 @media screen and (max-width: 1024px) { /* Specific to this particular image */
